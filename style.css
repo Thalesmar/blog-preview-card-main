@@ -111,6 +111,12 @@ svg{
         width: 5rem;
         height: 28px;
     }
+    svg{
+        width: 100%;
+        height: auto;
+        display: block;
+        
+    }
 }
 
 @media screen and (width: 1440px) {
