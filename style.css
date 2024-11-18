@@ -62,10 +62,9 @@ svg{
     font-size: 16px;
 }
 
-.title:hover{
-    font-weight: 800;
+.title:hover {
     color: hsl(47, 88%, 63%);
-    
+    cursor: pointer;
 }
 
 
