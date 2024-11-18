@@ -14,8 +14,8 @@ body{
 
 .main-frame{
     padding: 20px;
-    border:2px solid black;
-    border-radius: 10px;
+    border:1px solid black;
+    border-radius: 20px;
     width: 21rem;
     height: auto;
     min-height: 55vh;
